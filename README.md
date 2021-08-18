@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @orlandoflowers, I'm a UX and UI Designer, with heavy future interests on general programming, full stack, web design, machine learning and AI.
+- 👋 Hi, I’m @orlandoflowers, I'm a UX and UI Designer, with side developing jobs in general programming, full stack, web design, machine learning and AI.
 - 👀 I’m interested in learning solid core technologies
 - 🌱 I’m currently learning the depths of javascript,
 - 💞️ I’m looking to collaborate on any projects on tech
